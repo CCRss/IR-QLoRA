@@ -61,7 +61,6 @@ idna==3.4
 importlib-metadata==7.0.0
 importlib-resources==6.1.1
 iniconfig==2.0.0
-iotop==0.6
 ipaddress==1.0.23
 ipykernel==6.27.1
 ipython==8.18.1
